@@ -104,3 +104,4 @@ Commit 102 on 2025-04-14T15:44:49: fix: Resolve issue with memory leak
 Commit 103 on 2025-04-16T11:28:30: docs: Add more examples to the documentation
 Commit 104 on 2024-11-07T11:27:37: fix: Correct bug in data processing pipeline
 Commit 105 on 2024-12-03T13:28:32: feat: Add support for a new data format
+Commit 106 on 2024-12-23T15:23:59: test: Add integration tests for the API endpoints
