@@ -135,3 +135,4 @@ Commit 133 on 2025-06-02T14:09:05: fix: Correct bug in data processing pipeline
 Commit 134 on 2024-11-06T17:41:58: docs: Add more examples to the documentation
 Commit 135 on 2026-02-11T13:50:37: refactor: Simplify complex conditional logic
 Commit 136 on 2025-01-24T12:13:38: style: Refactor code for better readability
+Commit 137 on 2025-01-13T11:07:38: docs: Clarify API usage in the documentation
