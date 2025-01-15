@@ -251,3 +251,4 @@ Commit 249 on 2025-09-11T11:13:03: docs: Add more examples to the documentation
 Commit 250 on 2025-05-30T17:35:00: refactor: Simplify complex conditional logic
 Commit 251 on 2025-04-22T15:30:44: style: Remove unused imports and variables
 Commit 252 on 2024-12-04T16:24:47: style: Remove unused imports and variables
+Commit 253 on 2025-01-15T10:42:31: chore: Update build scripts
