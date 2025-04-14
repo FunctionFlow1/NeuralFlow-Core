@@ -100,3 +100,4 @@ Commit 98 on 2026-01-15T14:20:26: docs: Clarify API usage in the documentation
 Commit 99 on 2025-07-28T10:14:48: docs: Clarify API usage in the documentation
 Commit 100 on 2025-04-29T16:02:46: chore: Update build scripts
 Commit 101 on 2025-04-03T12:40:40: style: Refactor code for better readability
+Commit 102 on 2025-04-14T15:44:49: fix: Resolve issue with memory leak
