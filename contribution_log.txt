@@ -156,3 +156,4 @@ Commit 154 on 2024-11-05T17:33:20: style: Refactor code for better readability
 Commit 155 on 2025-08-29T17:06:12: style: Apply black formatting to the codebase
 Commit 156 on 2025-09-04T15:03:45: test: Increase test coverage for critical modules
 Commit 157 on 2025-04-29T13:03:25: fix: Correct bug in data processing pipeline
+Commit 158 on 2025-06-12T17:42:39: docs: Clarify API usage in the documentation
