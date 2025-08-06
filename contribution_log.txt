@@ -95,3 +95,4 @@ Commit 93 on 2025-05-19T10:46:09: chore: Update dependencies and configuration
 Commit 94 on 2025-11-26T10:26:13: style: Remove unused imports and variables
 Commit 95 on 2025-06-24T17:01:55: refactor: Optimize query performance
 Commit 96 on 2025-06-05T11:32:18: chore: Update build scripts
+Commit 97 on 2025-08-06T09:39:46: refactor: Simplify complex conditional logic
