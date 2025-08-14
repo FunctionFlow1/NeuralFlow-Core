@@ -160,3 +160,4 @@ Commit 158 on 2025-06-12T17:42:39: docs: Clarify API usage in the documentation
 Commit 159 on 2025-07-01T17:38:05: refactor: Simplify complex conditional logic
 Commit 160 on 2025-03-31T10:16:40: chore: Update build scripts
 Commit 161 on 2025-11-05T13:33:43: style: Refactor code for better readability
+Commit 162 on 2025-08-14T11:52:03: test: Add integration tests for the API endpoints
