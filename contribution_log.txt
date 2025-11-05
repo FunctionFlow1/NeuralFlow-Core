@@ -68,3 +68,4 @@ Commit 66 on 2025-10-09T14:58:27: style: Remove unused imports and variables
 Commit 67 on 2025-02-07T10:56:43: chore: Update build scripts
 Commit 68 on 2024-11-08T14:31:26: feat: Implement new feature for core module
 Commit 69 on 2026-02-11T11:32:32: docs: Clarify API usage in the documentation
+Commit 70 on 2025-11-05T10:14:18: docs: Update README with new instructions
