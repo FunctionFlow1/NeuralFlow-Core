@@ -96,3 +96,4 @@ Commit 94 on 2025-11-26T10:26:13: style: Remove unused imports and variables
 Commit 95 on 2025-06-24T17:01:55: refactor: Optimize query performance
 Commit 96 on 2025-06-05T11:32:18: chore: Update build scripts
 Commit 97 on 2025-08-06T09:39:46: refactor: Simplify complex conditional logic
+Commit 98 on 2026-01-15T14:20:26: docs: Clarify API usage in the documentation
